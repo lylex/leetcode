@@ -60,6 +60,8 @@ here goes the example
 
 # Tips
 
+# Code
+
 EOF
 
 cat > $work_dir/main.go << EOF
