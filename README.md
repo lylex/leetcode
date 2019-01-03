@@ -21,3 +21,4 @@ A leetcode a day, keeps bugs away.
 * [437. path sum iii](437_path_sum_iii/437.md)
 * [438. find all anagrams in a string](438_find_all_anagrams_in_a_string/438.md)
 * [441. arranging coins](441_arranging_coins/441.md)
+* [443. string compression](443_string_compression/443.md)
