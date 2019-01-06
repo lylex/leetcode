@@ -12,6 +12,7 @@ A leetcode a day, keeps bugs away.
 
 # Problem list
 
+* [1. two sum](1_two_sum/1.md)
 * [404. sum of left leaves](404_sum_of_left_leaves/404.md)
 * [405. convert a number to hexadecimal](405_convert_a_number_to_hexadecimal/405.md)
 * [409. Longest Palindrome](409_longest_palindrome/409.md)
