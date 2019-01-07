@@ -61,6 +61,9 @@ here goes the example
 # Tips
 
 # Code
+\`\`\`go
+here goes the code
+\`\`\`
 
 EOF
 
