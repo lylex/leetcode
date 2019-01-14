@@ -14,6 +14,7 @@ A leetcode a day, keeps bugs away.
 
 * [1. two sum](1_two_sum/1.md)
 * [2. add two numbers](2_add_two_numbers/2.md)
+* [387. first unique character in a string](387_first_unique_character_in_a_string/387.md)
 * [389. find the difference](389_find_the_difference/389.md)
 * [400. nth digit](400_nth_digit/400.md)
 * [404. sum of left leaves](404_sum_of_left_leaves/404.md)
