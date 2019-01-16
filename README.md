@@ -35,3 +35,5 @@ A leetcode a day, keeps bugs away.
 * [458. poor pigs](458_poor_pigs/458.md)
 * [459. repeated substring pattern](459_repeated_substring_pattern/459.md)
 * [461. hamming distance](461_hamming_distance/461.md)
+* [463. island perimeter](463_island_perimeter/463.md)
+* [476. number complement](476_number_complement/476.md)
