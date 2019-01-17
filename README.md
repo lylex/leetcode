@@ -38,3 +38,4 @@ A leetcode a day, keeps bugs away.
 * [463. island perimeter](463_island_perimeter/463.md)
 * [476. number complement](476_number_complement/476.md)
 * [479. largest palindrome product](479_largest_palindrome_product/479.md)
+* [482. license key formatting](482_license_key_formatting/482.md)
