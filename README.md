@@ -14,6 +14,7 @@ A leetcode a day, keeps bugs away.
 
 * [1. two sum](1_two_sum/1.md)
 * [2. add two numbers](2_add_two_numbers/2.md)
+* [383. ransom note](383_ransom_note/383.md)
 * [387. first unique character in a string](387_first_unique_character_in_a_string/387.md)
 * [389. find the difference](389_find_the_difference/389.md)
 * [400. nth digit](400_nth_digit/400.md)
@@ -39,4 +40,4 @@ A leetcode a day, keeps bugs away.
 * [476. number complement](476_number_complement/476.md)
 * [479. largest palindrome product](479_largest_palindrome_product/479.md)
 * [482. license key formatting](482_license_key_formatting/482.md)
-* [383. ransom note](383_ransom_note/383.md)
+* [485. max consecutive ones](485_max_consecutive_ones/485.md)
