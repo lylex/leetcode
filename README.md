@@ -41,3 +41,4 @@ A leetcode a day, keeps bugs away.
 * [479. largest palindrome product](479_largest_palindrome_product/479.md)
 * [482. license key formatting](482_license_key_formatting/482.md)
 * [485. max consecutive ones](485_max_consecutive_ones/485.md)
+* [492. construct the rectangle](492_construct_the_rectangle/492.md)
