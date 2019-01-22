@@ -43,3 +43,4 @@ A leetcode a day, keeps bugs away.
 * [485. max consecutive ones](485_max_consecutive_ones/485.md)
 * [492. construct the rectangle](492_construct_the_rectangle/492.md)
 * [496. next greater element i](496_next_greater_element_i/496.md)
+* [500. keyboard row](500_keyboard_row/500.md)
