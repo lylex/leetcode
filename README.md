@@ -44,3 +44,4 @@ A leetcode a day, keeps bugs away.
 * [492. construct the rectangle](492_construct_the_rectangle/492.md)
 * [496. next greater element i](496_next_greater_element_i/496.md)
 * [500. keyboard row](500_keyboard_row/500.md)
+* [501. find mode in binary search tree](501_find_mode_in_binary_search_tree/501.md)
