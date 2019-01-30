@@ -14,6 +14,8 @@ A leetcode a day, keeps bugs away.
 
 * [1. two sum](1_two_sum/1.md)
 * [2. add two numbers](2_add_two_numbers/2.md)
+* [371. sum of two integers](371_sum_of_two_integers/371.md)
+* [374. guess number higher or lower](374_guess_number_higher_or_lower/374.md)
 * [383. ransom note](383_ransom_note/383.md)
 * [387. first unique character in a string](387_first_unique_character_in_a_string/387.md)
 * [389. find the difference](389_find_the_difference/389.md)
@@ -46,4 +48,3 @@ A leetcode a day, keeps bugs away.
 * [500. keyboard row](500_keyboard_row/500.md)
 * [501. find mode in binary search tree](501_find_mode_in_binary_search_tree/501.md)
 * [504. base 7](504_base_7/504.md)
-* [374. guess number higher or lower](374_guess_number_higher_or_lower/374.md)
