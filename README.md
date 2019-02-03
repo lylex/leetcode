@@ -48,3 +48,4 @@ A leetcode a day, keeps bugs away.
 * [500. keyboard row](500_keyboard_row/500.md)
 * [501. find mode in binary search tree](501_find_mode_in_binary_search_tree/501.md)
 * [504. base 7](504_base_7/504.md)
+* [506. relative ranks](506_relative_ranks/506.md)
