@@ -51,3 +51,4 @@ A leetcode a day, keeps bugs away.
 * [506. relative ranks](506_relative_ranks/506.md)
 * [507. perfect number](507_perfect_number/507.md)
 * [509. fibonacci number](509_fibonacci_number/509.md)
+* [520. detect capital](520_detect_capital/520.md)
