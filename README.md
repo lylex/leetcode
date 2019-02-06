@@ -53,3 +53,4 @@ A leetcode a day, keeps bugs away.
 * [507. perfect number](507_perfect_number/507.md)
 * [509. fibonacci number](509_fibonacci_number/509.md)
 * [520. detect capital](520_detect_capital/520.md)
+* [521. longest uncommon subsequence i](521_longest_uncommon_subsequence_i/521.md)
