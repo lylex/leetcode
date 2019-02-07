@@ -15,6 +15,7 @@ A leetcode a day, keeps bugs away.
 * [1. two sum](1_two_sum/1.md)
 * [2. add two numbers](2_add_two_numbers/2.md)
 * [292. Nim Game](292_Nim_Game/292.md)
+* [344. reverse string](344_reverse_string/344.md)
 * [371. sum of two integers](371_sum_of_two_integers/371.md)
 * [374. guess number higher or lower](374_guess_number_higher_or_lower/374.md)
 * [383. ransom note](383_ransom_note/383.md)
