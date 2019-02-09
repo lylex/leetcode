@@ -16,6 +16,7 @@ A leetcode a day, keeps bugs away.
 * [2. add two numbers](2_add_two_numbers/2.md)
 * [292. Nim Game](292_Nim_Game/292.md)
 * [344. reverse string](344_reverse_string/344.md)
+* [345. Reverse Vowels of a String](345_Reverse_Vowels_of_a_String/345.md)
 * [371. sum of two integers](371_sum_of_two_integers/371.md)
 * [374. guess number higher or lower](374_guess_number_higher_or_lower/374.md)
 * [383. ransom note](383_ransom_note/383.md)
@@ -55,3 +56,4 @@ A leetcode a day, keeps bugs away.
 * [509. fibonacci number](509_fibonacci_number/509.md)
 * [520. detect capital](520_detect_capital/520.md)
 * [521. longest uncommon subsequence i](521_longest_uncommon_subsequence_i/521.md)
+* [530. minimum absolute difference in bst](530_minimum_absolute_difference_in_bst/530.md)
