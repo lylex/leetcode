@@ -57,3 +57,4 @@ A leetcode a day, keeps bugs away.
 * [520. detect capital](520_detect_capital/520.md)
 * [521. longest uncommon subsequence i](521_longest_uncommon_subsequence_i/521.md)
 * [530. minimum absolute difference in bst](530_minimum_absolute_difference_in_bst/530.md)
+* [532. k diff pairs in an array](532_k_diff_pairs_in_an_array/532.md)
