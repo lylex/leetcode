@@ -61,3 +61,4 @@ A leetcode a day, keeps bugs away.
 * [538. convert bst to greater tree](538_convert_bst_to_greater_tree/538.md)
 * [541. reverse string ii](541_reverse_string_ii/541.md)
 * [543. diameter of binary tree](543_diameter_of_binary_tree/543.md)
+* [551. student attendance record i](551_student_attendance_record_i/551.md)
