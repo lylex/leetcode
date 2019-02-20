@@ -16,6 +16,7 @@ A leetcode a day, keeps bugs away.
 * [2. add two numbers](2_add_two_numbers/2.md)
 * [206. reverse linked list](206_reverse_linked_list/206.md)
 * [278. first bad version](278_first_bad_version/278.md)
+* [283. move zeroes](283_move_zeroes/283.md)
 * [292. Nim Game](292_Nim_Game/292.md)
 * [344. reverse string](344_reverse_string/344.md)
 * [345. Reverse Vowels of a String](345_Reverse_Vowels_of_a_String/345.md)
