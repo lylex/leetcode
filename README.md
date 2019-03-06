@@ -19,6 +19,7 @@ A leetcode a day, keeps bugs away.
 * [283. move zeroes](283_move_zeroes/283.md)
 * [290. word pattern](290_word_pattern/290.md)
 * [292. Nim Game](292_Nim_Game/292.md)
+* [326. Power Of Three](326_power_of_three/326.md)
 * [342. Power Of Four](342_power_of_four/342.md)
 * [344. reverse string](344_reverse_string/344.md)
 * [345. Reverse Vowels of a String](345_Reverse_Vowels_of_a_String/345.md)
