@@ -23,6 +23,7 @@ A leetcode a day, keeps bugs away.
 * [342. Power Of Four](342_power_of_four/342.md)
 * [344. reverse string](344_reverse_string/344.md)
 * [345. Reverse Vowels of a String](345_Reverse_Vowels_of_a_String/345.md)
+* [349. Intersection Of Two Arrays](349_intersection_of_two_arrays/349.md)
 * [371. sum of two integers](371_sum_of_two_integers/371.md)
 * [374. guess number higher or lower](374_guess_number_higher_or_lower/374.md)
 * [383. ransom note](383_ransom_note/383.md)
