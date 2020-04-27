@@ -14,6 +14,7 @@ A leetcode a day, keeps bugs away.
 
 * [1. two sum](1_two_sum/1.md)
 * [2. add two numbers](2_add_two_numbers/2.md)
+* [189. rotate array](189_rotate_array/189.md)
 * [206. reverse linked list](206_reverse_linked_list/206.md)
 * [278. first bad version](278_first_bad_version/278.md)
 * [283. move zeroes](283_move_zeroes/283.md)
