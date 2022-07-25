@@ -20,21 +20,13 @@ func twoSum(nums []int, target int) []int {
 }
 
 func twoSum2(nums []int, target int) []int {
-	list := map[int]int{}
-
-	if len(nums) < 2 {
-		return nil
-	}
-
-	for k, v := range nums {
-		left := target - v
-		if vv, ok := list[left]; ok {
-			return []int{vv, k}
+	mapping := make(map[int]int, len(nums))
+	for i, v := range nums {
+		if _, ok := mapping[target-v]; ok {
+			return []int{i, mapping[target-v]}
 		}
-
-		list[v] = k
+		mapping[v] = i
 	}
-
 	return nil
 }
 
