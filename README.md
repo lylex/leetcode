@@ -16,6 +16,7 @@ A leetcode a day, keeps bugs away.
 * [2. add two numbers](2_add_two_numbers/2.md)
 * [3. longest substring without repeating characters](3_longest_substring_without_repeating_characters/3.md)
 * [5. longest palindromic substring](5_longest_palindromic_substring/5.md)
+* [6. zigzag conversion](6_zigzag_conversion/6.md)
 * [189. rotate array](189_rotate_array/189.md)
 * [206. reverse linked list](206_reverse_linked_list/206.md)
 * [221. Maximal Square](221_Maximal_Square/221.md)
